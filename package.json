@@ -1,0 +1,27 @@
+{
+  "name": "vue-part-compile-loader",
+  "private": false,
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://artifacts.bct.host/repository/bct-npm-custom/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webgzh907247189/vue-part-compile-loader.git"
+  },
+  "homepage": "https://github.com/webgzh907247189/vue-part-compile-loader/blob/main/README.md",
+  "keywords": [
+    "babel",
+    "react",
+    "plugin",
+    "injectXssCode",
+    "injectCode",
+    "ast",
+    "compiler inject"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
